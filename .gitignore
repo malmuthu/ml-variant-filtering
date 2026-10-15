@@ -1,0 +1,17 @@
+data/
+results/
+logs/
+*.bam
+*.bai
+*.cram
+*.crai
+*.fastq.gz
+*.vcf.gz
+*.tbi
+data_backup/
+results_backup/
+versions_backup.txt
+docs/figures/
+.DS_Store
+__pycache__/
+*.pyc

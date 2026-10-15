@@ -1,0 +1,16 @@
+name: gx-ml
+channels:
+  - conda-forge
+  - bioconda
+  - nodefaults
+dependencies:
+  - python=3.11.16
+  - pandas=3.0.6
+  - numpy=2.4.6
+  - scikit-learn=1.9.1
+  - xgboost=3.4.2
+  - shap=0.51.0
+  - matplotlib=3.11.2
+  - seaborn=0.13.2
+  - jupyterlab=4.6.4
+  - pysam=0.24.1

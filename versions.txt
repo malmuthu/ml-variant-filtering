@@ -1,0 +1,28 @@
+## gx-bio
+samtools 1.24
+bcftools 1.24
+Version: 0.7.19-r1273
+FastQC v0.12.1
+
+multiqc, version 1.35
+
+The Genome Analysis Toolkit (GATK) v4.6.2.0
+HTSJDK Version: 4.2.0
+Picard Version: 3.4.0
+Product: RTG Tools 3.13
+bedtools v2.31.1
+
+openjdk version "17.0.18" 2026-01-20 LTS
+## gx-annot
+SnpEff	5.4c	2026-02-23
+openjdk version "21.0.10" 2026-01-20 LTS
+## gx-ml
+pandas 3.0.6
+numpy 2.4.6
+sklearn 1.9.1
+xgboost 3.4.2
+shap 0.51.0
+matplotlib 3.11.2
+seaborn 0.13.2
+pysam 0.24.1
+

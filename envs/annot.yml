@@ -1,0 +1,8 @@
+name: gx-annot
+channels:
+  - conda-forge
+  - bioconda
+  - nodefaults
+dependencies:
+  - snpeff=5.4.0c
+  - openjdk=21.0.10
